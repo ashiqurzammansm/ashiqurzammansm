@@ -59,77 +59,72 @@
 
 <!-- Programming Languages -->
 <!-- SKILLS:LANGUAGES-START -->
-<!-- (auto) -->
+<details><summary><b>Programming Languages</b></summary>
+
+![javascript](https://skillicons.dev/icons?i=javascript)
+
+</details>
 <!-- SKILLS:LANGUAGES-END -->
 
 <!-- Frontend Development -->
 <!-- SKILLS:FRONTEND-START -->
-<!-- (auto) -->
+<details><summary><b>Frontend Development</b></summary>
+
+![html](https://skillicons.dev/icons?i=html) ![css](https://skillicons.dev/icons?i=css)
+
+</details>
 <!-- SKILLS:FRONTEND-END -->
 
 <!-- Backend Development -->
 <!-- SKILLS:BACKEND-START -->
-<!-- (auto) -->
 <!-- SKILLS:BACKEND-END -->
 
 <!-- Mobile Application Development -->
 <!-- SKILLS:MOBILE-START -->
-<!-- (auto) -->
 <!-- SKILLS:MOBILE-END -->
 
 <!-- AI / ML -->
 <!-- SKILLS:AI-START -->
-<!-- (auto) -->
 <!-- SKILLS:AI-END -->
 
 <!-- Database -->
 <!-- SKILLS:DATABASE-START -->
-<!-- (auto) -->
 <!-- SKILLS:DATABASE-END -->
 
 <!-- Data Visualization -->
 <!-- SKILLS:DATAVIZ-START -->
-<!-- (auto) -->
 <!-- SKILLS:DATAVIZ-END -->
 
 <!-- DevOps -->
 <!-- SKILLS:DEVOPS-START -->
-<!-- (auto) -->
 <!-- SKILLS:DEVOPS-END -->
 
 <!-- Backend as a Service (BaaS) -->
 <!-- SKILLS:BAAS-START -->
-<!-- (auto) -->
 <!-- SKILLS:BAAS-END -->
 
 <!-- Framework -->
 <!-- SKILLS:FRAMEWORK-START -->
-<!-- (auto) -->
 <!-- SKILLS:FRAMEWORK-END -->
 
 <!-- Testing / Software -->
 <!-- SKILLS:TESTING-START -->
-<!-- (auto) -->
 <!-- SKILLS:TESTING-END -->
 
 <!-- Static Site Generator -->
 <!-- SKILLS:SSG-START -->
-<!-- (auto) -->
 <!-- SKILLS:SSG-END -->
 
 <!-- Game Engine -->
 <!-- SKILLS:GAME-START -->
-<!-- (auto) -->
 <!-- SKILLS:GAME-END -->
 
 <!-- Automation -->
 <!-- SKILLS:AUTOMATION-START -->
-<!-- (auto) -->
 <!-- SKILLS:AUTOMATION-END -->
 
 <!-- Others -->
 <!-- SKILLS:OTHERS-START -->
-<!-- (auto) -->
 <!-- SKILLS:OTHERS-END -->
 
 <!-- SKILLS:ROOT-END -->
