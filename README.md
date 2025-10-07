@@ -61,7 +61,7 @@
 <!-- SKILLS:LANGUAGES-START -->
 <details><summary><b>Programming Languages</b></summary>
 
-![javascript](https://skillicons.dev/icons?i=javascript)
+![javascript](https://skillicons.dev/icons?i=javascript) ![kotlin](https://skillicons.dev/icons?i=kotlin)
 
 </details>
 <!-- SKILLS:LANGUAGES-END -->
